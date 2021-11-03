@@ -31,7 +31,7 @@ public class GUI {
     }
 
     public static void createFrame() {
-        frame = new JFrame("Emojifier v0.0.2 by Dexter");
+        frame = new JFrame("Emojifier v0.0.3 by Dexter");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
         panel = new JPanel();
