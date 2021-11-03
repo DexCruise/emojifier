@@ -14,6 +14,6 @@
 
  - replaces each of a string's characters with entries of the hashmap fed to it
 
-###EmojufyWrapper
+###EmojifyWrapper
 
  - creates a hashmap for emoji markdown and lets the GUI and CLI interface with it
